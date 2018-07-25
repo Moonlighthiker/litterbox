@@ -1,2 +1,2 @@
 # litterbox
-A sandbox for coding kitties. 
+A little sandbox for coding kitties.
